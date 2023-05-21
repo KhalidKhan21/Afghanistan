@@ -203,7 +203,7 @@ cps=[]
 pcp=[]
 id=[]
 tokenku=[]
-def KHALID KHAN1(ids,names,passlist):
+def KHALID(ids,names,passlist):
         global loop,oks,cps
         sys.stdout.write('\r\r\033[1;32m [KHALID KHAN-XD-\033[1;33mM1\033[1;32m] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
